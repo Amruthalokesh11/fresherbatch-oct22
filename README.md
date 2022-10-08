@@ -3,7 +3,7 @@
  * 
  */
 /**
- * @author Vaibhav
+ * @author Amrutha
  *
  */
 module SampleProj {
